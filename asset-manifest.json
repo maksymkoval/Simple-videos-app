@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Simple-videos-app/static/css/main.3a7243e6.chunk.css",
+    "main.js": "/Simple-videos-app/static/js/main.c8fec752.chunk.js",
+    "main.js.map": "/Simple-videos-app/static/js/main.c8fec752.chunk.js.map",
+    "runtime-main.js": "/Simple-videos-app/static/js/runtime-main.78c0c55c.js",
+    "runtime-main.js.map": "/Simple-videos-app/static/js/runtime-main.78c0c55c.js.map",
+    "static/js/2.7651a4af.chunk.js": "/Simple-videos-app/static/js/2.7651a4af.chunk.js",
+    "static/js/2.7651a4af.chunk.js.map": "/Simple-videos-app/static/js/2.7651a4af.chunk.js.map",
+    "index.html": "/Simple-videos-app/index.html",
+    "static/css/main.3a7243e6.chunk.css.map": "/Simple-videos-app/static/css/main.3a7243e6.chunk.css.map",
+    "static/js/2.7651a4af.chunk.js.LICENSE.txt": "/Simple-videos-app/static/js/2.7651a4af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78c0c55c.js",
+    "static/js/2.7651a4af.chunk.js",
+    "static/css/main.3a7243e6.chunk.css",
+    "static/js/main.c8fec752.chunk.js"
+  ]
+}
